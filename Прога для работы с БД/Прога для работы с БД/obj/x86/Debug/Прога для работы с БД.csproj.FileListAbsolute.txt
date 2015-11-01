@@ -1,0 +1,48 @@
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.exe
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.pdb
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Properties.Resources.resources
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.exe
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.pdb
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Главная_форма.resources
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Мой проект\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Form2.resources
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.exe
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.pdb
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.exe
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.pdb
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Главная_форма.resources
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Properties.Resources.resources
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.exe
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.pdb
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.exe
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.pdb
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Главная_форма.resources
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Универсальная_форма.resources
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Properties.Resources.resources
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\---V i t a L---\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\VETA\Рабочий стол\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Универсальная_форма.resources
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.exe
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.pdb
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.exe
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.pdb
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Главная_форма.resources
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Универсальная_форма.resources
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Properties.Resources.resources
+C:\Users\Администратор\Desktop\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.csproj.GenerateResource.Cache
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.exe
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.pdb
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.exe
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\bin\Debug\Прога для работы с БД.pdb
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.csprojResolveAssemblyReference.cache
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Главная_форма.resources
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Универсальная_форма.resources
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога_для_работы_с_БД.Properties.Resources.resources
+F:\Пример\Пример\Прога для работы с БД\Прога для работы с БД\obj\x86\Debug\Прога для работы с БД.csproj.GenerateResource.Cache
